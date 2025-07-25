@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rickyhub</title>
+    <link>https://rickyhub.org/</link>
+    
+    <atom:link href="https://rickyhub.org/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Fri, 25 Jul 2025 00:07:45 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>最便宜稳定的香港奈飞解锁？NiiHost HK V6 评测</title>
+      <link>https://rickyhub.org/06319e9a45ac/</link>
+      <guid>https://rickyhub.org/06319e9a45ac/</guid>
+      <pubDate>Sun, 20 Jul 2025 01:00:00 GMT</pubDate>
+      
+      <description>仅需5刀一年即可解锁奈飞、迪士尼等流媒体。本文将简单评测一下 NiiHost 的香港 ipv6-only 机。</description>
+      
+      
+      
+      
+      <category domain="https://rickyhub.org/categories/%E6%8A%80%E6%9C%AF/">技术</category>
+      
+      
+      <category domain="https://rickyhub.org/tags/VPS/">VPS</category>
+      
+      <category domain="https://rickyhub.org/tags/Linux/">Linux</category>
+      
+      
+      <comments>https://rickyhub.org/06319e9a45ac/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Easytier 轻松实现异地组网</title>
+      <link>https://rickyhub.org/e7cb6b6b7673/</link>
+      <guid>https://rickyhub.org/e7cb6b6b7673/</guid>
+      <pubDate>Fri, 18 Jul 2025 21:00:00 GMT</pubDate>
+      
+      <description>代替 Zerotier 和 Tailscale，最新的开源去中心化异地组网工具 Easytier 入门使用教程。本文将介绍如何占用最低的资源，使用配置文件的方式实现简易部署。</description>
+      
+      
+      
+      
+      <category domain="https://rickyhub.org/categories/%E6%8A%80%E6%9C%AF/">技术</category>
+      
+      
+      <category domain="https://rickyhub.org/tags/%E7%BD%91%E7%BB%9C/">网络</category>
+      
+      <category domain="https://rickyhub.org/tags/VPS/">VPS</category>
+      
+      <category domain="https://rickyhub.org/tags/%E7%BB%84%E7%BD%91/">组网</category>
+      
+      <category domain="https://rickyhub.org/tags/NAS/">NAS</category>
+      
+      
+      <comments>https://rickyhub.org/e7cb6b6b7673/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>如何显示站点总浏览量与访问数？</title>
+      <link>https://rickyhub.org/fdc514f7fc0a/</link>
+      <guid>https://rickyhub.org/fdc514f7fc0a/</guid>
+      <pubDate>Thu, 17 Jul 2025 06:00:00 GMT</pubDate>
+      
+      <description>使用 Umami API 配合 js 脚本显示站点总浏览量与访问数，结合 Cloudflare Worker 转发 API 以隐藏 Umami 的 Token。</description>
+      
+      
+      
+      
+      <category domain="https://rickyhub.org/categories/%E6%8A%80%E6%9C%AF/">技术</category>
+      
+      
+      <category domain="https://rickyhub.org/tags/%E7%BD%91%E7%BB%9C/">网络</category>
+      
+      <category domain="https://rickyhub.org/tags/%E5%8D%9A%E5%AE%A2/">博客</category>
+      
+      
+      <comments>https://rickyhub.org/fdc514f7fc0a/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>【低成本搭建】魔法从0到毕业</title>
+      <link>https://rickyhub.org/44fcc85409a8/</link>
+      <guid>https://rickyhub.org/44fcc85409a8/</guid>
+      <pubDate>Wed, 16 Jul 2025 23:00:00 GMT</pubDate>
+      
+      <description>2025 霍格沃滋学院入学必备知识，从零基础直接毕业。本文将介绍 VPS、协议、服务端和客户端等多个方面的选择，从零搭建自己的高隐私、低成本节点。</description>
+      
+      
+      
+      
+      <category domain="https://rickyhub.org/categories/%E6%8A%80%E6%9C%AF/">技术</category>
+      
+      
+      <category domain="https://rickyhub.org/tags/%E7%BD%91%E7%BB%9C/">网络</category>
+      
+      <category domain="https://rickyhub.org/tags/VPS/">VPS</category>
+      
+      <category domain="https://rickyhub.org/tags/%E9%AD%94%E6%B3%95/">魔法</category>
+      
+      
+      <comments>https://rickyhub.org/44fcc85409a8/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>BestBuy 自动库存通知</title>
+      <link>https://rickyhub.org/a23388e86d35/</link>
+      <guid>https://rickyhub.org/a23388e86d35/</guid>
+      <pubDate>Sun, 08 Jun 2025 06:00:00 GMT</pubDate>
+      
+      <description>使用 python 脚本配合 crontab 实现 BestBuy 自动库存监测，并顺利帮我拿下 5700 rmb 的 5070Ti OC。</description>
+      
+      
+      
+      
+      <category domain="https://rickyhub.org/categories/%E6%8A%80%E6%9C%AF/">技术</category>
+      
+      
+      <category domain="https://rickyhub.org/tags/%E7%BD%91%E7%BB%9C/">网络</category>
+      
+      
+      <comments>https://rickyhub.org/a23388e86d35/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
